@@ -1,4 +1,4 @@
-# ankiForKoreanLearnersStarterPackByRadjisk
+# 안녕 하세요! 어서 오세요~
 OK, so you want to learn Korean and want to use Anki. There's a lot of guides out there for Anki (and there's a lot of ways to use it), but I'll suggest some decks and some settings (and more importantly: why I think you should take my suggestions), but ultimately it's up to you to find what works.
 
 ## Vocabulary
