@@ -47,3 +47,12 @@ Add that hint field! Put in an answer box on every front card to practice spelli
 Suspend a card because you didn't realize one deck had 자랑 and the other had 자랑하다 and the 자랑-only card is better so you delete the fields in 자랑하다 and then combine them with a plugin so that you keep the history so that your six-in-a-row press of "Again" makes it to the new card becuase they're basically the same card. 
 
 You don't feel like you need to learn the KR->EN card for 서울 because it's too easy? Suspend that card! And then change the EN->KR card to show you something different than "Seoul" and write "the current capital of South Korea" instead. THE DECK IS YOURS FOR THE CHANGING!
+
+## To-do list
+- check for typos
+- deck setup suggestions (desired retention, maximum intervals, etc.)
+- tagging tips (and things to avoid)
+- autohotkey examples (very layout specific)
+- suggestions on specific note layout additions or changes
+- possibly attempting to write this in Korean because practice
+- add blurb about how this guide assumes that English is the language *from* which you're wanting to learn Korean
