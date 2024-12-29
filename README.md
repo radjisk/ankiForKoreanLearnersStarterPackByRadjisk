@@ -4,6 +4,8 @@
   <a href="https://github.com/radjisk/ankiForKoreanLearnersStarterPackByRadjisk?tab=readme-ov-file#vocabulary">Vocabulary</a> |
   <a href="https://github.com/radjisk/ankiForKoreanLearnersStarterPackByRadjisk?tab=readme-ov-file#listening-practice">Listening</a> |
   <a href="https://github.com/radjisk/ankiForKoreanLearnersStarterPackByRadjisk?tab=readme-ov-file#changing-the-cards">Editing</a> |
+  <a href="https://github.com/radjisk/ankiForKoreanLearnersStarterPackByRadjisk?tab=readme-ov-file#anki-settings">Anki settings</a> |
+  <a href="https://github.com/radjisk/ankiForKoreanLearnersStarterPackByRadjisk?tab=readme-ov-file#autohotkey-things">Autohotkey</a> |
   <a href="https://github.com/radjisk/ankiForKoreanLearnersStarterPackByRadjisk?tab=readme-ov-file#to-do-list">To-do</a>
 </p>
 
